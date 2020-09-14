@@ -1,6 +1,6 @@
 ### Hello, My name is Daisy Wanirwoth 👋 :wave:
 
-I am a data analyst from Finland. I am currently doing a few personal studies at (https://www.datacamp.com/community/open-courses/)
+I am a data analyst from Finland. I am currently doing a few personal studies at [Datacamp] (https://www.datacamp.com/community/open-courses/)
 
 <!--
 **daisywani/daisywani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
