@@ -1,6 +1,6 @@
 ### Hello, My name is Daisy Wanirwoth 👋 :wave:
 
-I am a data analyst from Finland. I am currently doing a few personal studies at [Datacamp] (https://www.datacamp.com/community/open-courses/) as a way of improving on my data analysis skills. I am passionate about python, numpy, scipy, pandas, matplotlib, scikit-learn, statsmodels and seaborn.
+I am a data analyst from Finland. I am currently doing a few personal studies at Datacamp (https://www.datacamp.com/community/open-courses/) as a way of improving on my data analysis skills. I am passionate about python, numpy, scipy, pandas, matplotlib, scikit-learn, statsmodels and seaborn.
 
 I'm currently working on improving programming skills in Python. I started this journey 01-01-2020 and it has been 9 months of constant growth and improvement. I am currently learning Data Analysis workflow at Aalto University (https://scicomp.aalto.fi/training/scip/data-analysis/). This is showing me how to present my work for data analysis, the libraries to be used and the practical application of data analysis in real life situations.
 
